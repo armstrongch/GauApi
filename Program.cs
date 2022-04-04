@@ -11,6 +11,7 @@ namespace GauApi
 {
     public class Program
     {
+        // https://docs.microsoft.com/en-us/aspnet/core/tutorials/first-web-api?view=aspnetcore-6.0&tabs=visual-studio
         public static void Main(string[] args)
         {
             CreateHostBuilder(args).Build().Run();

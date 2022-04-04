@@ -1,4 +1,4 @@
-﻿namespace GauAPi.Models
+﻿namespace GauApi.Models
 {
     public class ToDoItem
     {
